@@ -1,0 +1,17 @@
+.roraima {
+  fill: red;
+}
+
+.estado {
+  fill: #b9b9b9;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-opacity: 1;
+  stroke-width: 282.23677982;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+
+  &:hover {
+    fill: brown;
+  }
+}
